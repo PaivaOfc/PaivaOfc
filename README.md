@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Erik Paiva 😉
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erik_paivaofc/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/erik-paiva-4a7b02245)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-paiva-4a7b02245)
 
 ![Erik GitHub stats](https://github-readme-stats.vercel.app/api?username=PaivaOfc&show_icons=true&theme=dracula)
 
