@@ -90,10 +90,10 @@ A prova visual da minha dedicação e atividade:
 Sinta-se à vontade para se conectar e trocar ideias sobre tecnologia e desenvolvimento!
 
 <p align="left">
-  <a href="https://linkedin.com/in/[SeuUsernameDoLinkedIn]" target="_blank">
+  <a href="https://linkedin.com/in/erikvpaiva" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:seu.email@exemplo.com">
+  <a href="mailto:erik007br@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
   <a href="https://www.instagram.com/erik_paivaofc/" target="_blank">
