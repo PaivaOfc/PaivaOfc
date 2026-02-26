@@ -1,79 +1,54 @@
 # Olá! Eu sou o Erik Paiva 👋
-### Assistente de TI | Graduando em Gestão de Tecnologia da Informação
+### Assistente de TI | Desenvolvedor Java & Spring Boot em Ascensão | Graduando em Gestão de TI
 
-Atualmente, atuo como **Assistente de TI** com foco em **suporte ao cliente interno**, garantindo a eficiência operacional da empresa. Paralelamente, minha paixão pelo desenvolvimento me move a criar **soluções internas** (sistemas e automações) no meu tempo livre. Estou sempre buscando transformar desafios da TI em código funcional, com foco em performance e escalabilidade.
+Atualmente, atuo como **Assistente de TI** com foco em suporte ao cliente interno e infraestrutura. Minha verdadeira paixão está no desenvolvimento de software, onde dedico meu tempo livre para construir **soluções corporativas robustas**. Recentemente, direcionei meu foco total para o ecossistema **Java**, buscando criar sistemas escaláveis, seguros e de alta performance.
 
 > 📚 **Em Formação:** Cursando Gestão de Tecnologia da Informação.
 
 ---
 
-## 🛠️ Minha Stack Principal
+## 🛠️ Minha Stack Principal (Foco Atual)
 
-Minha stack de desenvolvimento está focada em soluções Full-Stack modernas, utilizando o que há de mais robusto e atual no mercado:
+Estou aprimorando minhas habilidades para atuar como Desenvolvedor Full-Stack, com especialização no ecossistema Java e interfaces modernas:
 
-| Categoria | Primário (Proficiência) | Secundário (Aprendizado Contínuo) | Ferramentas de Apoio |
+| Categoria | Primário (Foco & Proficiência) | Secundário (Bagagem & Estudos) | Ferramentas de Apoio |
 | :--- | :--- | :--- | :--- |
-| **Back-End** | Python, Django | Node.js, REST APIs | PostgreSQL, MySQL, Docker |
-| **Front-End** | React, Next.js | JavaScript, TypeScript | HTML5, CSS3, Styled Components |
+| **Back-End** | **Java 17+, Spring Boot** | Python (Django), Node.js | Hibernate/JPA, Maven, Docker |
+| **Front-End** | React, Next.js | JavaScript, TypeScript | HTML5, CSS3, Tailwind |
+| **Banco de Dados** | PostgreSQL, MySQL | MongoDB | DBeaver, Postman |
 
 ## 🧠 Outras Experiências e Conhecimentos
 
-Para além do foco atual, possuo experiência e conhecimento que me dão uma base de TI mais ampla:
+Minha trajetória me permitiu transitar por diferentes tecnologias, o que me dá uma visão ampla de solução de problemas:
 
-* **Lua:** Experiência sólida de 2 anos em desenvolvimento, aplicada principalmente em Scripts para Multi Theft Auto.
-* **PHP:** Conhecimento introdutório e mínimo, capaz de realizar manutenções e pequenas implementações.
+* **Ecossistema Python:** Experiência com Django para automações e sistemas internos.
+* **Lua:** Sólida experiência de 2 anos em scripts para Multi Theft Auto.
+* **PHP:** Conhecimento para manutenções e implementações de ferramentas legadas.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 Projetos e Soluções (Internal Tools & Side Projects)
 
-Estes repositórios refletem minha capacidade de aplicar o conhecimento no mundo real, seja automatizando processos ou construindo novos sistemas:
+Utilizo a tecnologia para resolver problemas reais de produtividade no ambiente de trabalho:
 
-* **Formulários Internos: Soluções de Otimização (PHP)**: Aplicação desenvolvida em **PHP** focada em digitalizar e otimizar processos internos críticos, como a **Solicitação de EPI** (Equipamento de Proteção Individual) e a **Solicitação de Troca de Turno**.
-
-    **📌 O Desafio Anterior:**
-    Todos os processos eram baseados em formulários **físicos e em papel**, resultando em lentidão na tramitação, maior chance de erros e dificuldade na rastreabilidade.
-
-    **🚀 A Solução e Seus Benefícios:**
-    A aplicação transformou o fluxo de trabalho de solicitações em um sistema digital, tornando o processo:
-    
-    * **Mais Rápido:** A submissão e o encaminhamento das solicitações se tornaram instantâneos.
-    * **Mais Eficaz:** Reduziu a burocracia, eliminou a necessidade de documentos físicos e facilitou a organização e arquivamento digital dos registros.
-
-    O projeto exemplifica a aplicação da tecnologia para gerar **eficiência imediata** e **redução de custos** operacionais.
-
-    * **Status:** Finalizado (Em Produção Interna)
-* **DDSMS: Sistema de Lançamento Digital de DDS (PHP)**: Uma aplicação robusta desenvolvida em **PHP** com o objetivo de **desburocratizar** e digitalizar o lançamento diário da lista de presença referente ao **Diálogo Diário de Segurança, Meio Ambiente e Saúde (DDSMS)**.
-    
-    **📌 O Desafio Anterior:**
-    O processo era inteiramente manual, envolvendo o preenchimento em papel A4, com posterior inserção manual no **Microsoft Excel** pelo departamento de Segurança do Trabalho (SESMT) para gerar relatórios.
-
-    **🚀 A Solução e Seus Benefícios:**
-    O DDSMS transforma essa rotina manual em um fluxo digital e simultâneo. Ele permite aos gestores o lançamento diário rápido com visualização de **métricas de seus lançamentos** em tempo real. Para o SESMT, o sistema garante o recebimento instantâneo do relatório, automatizando o controle e gerando **métricas e resultados** detalhados por Colaborador, Gestor e Gerente. Um exemplo de aplicação da tecnologia para aumentar a **eficiência operacional** e garantir a **conformidade**.
-    * **Status:** Finalizado (Em Produção Interna)
-* **Controle de Uso de Veículos Internos (Python | Django)**: Uma aplicação Full-Stack desenvolvida em **Python com Django** com o objetivo de digitalizar e administrar o uso da frota de veículos internos utilizada pelos colaboradores.
-    
-    **📌 O Desafio Anterior:**
-    A gestão e o registro do uso dos veículos eram feitos manualmente no **Microsoft Excel** pelo time de segurança (que inseria Horário, KM, Colaborador, etc.), resultando em um processo lento, manual e propenso a falhas de registro.
-
-    **🚀 A Solução e Seus Benefícios:**
-    O sistema automatiza o registro, proporcionando **agilidade e precisão**. A aplicação integra listas de colaboradores autorizados e veículos disponíveis e pré-preenche dados contextuais (horário e data), facilitando o lançamento em poucos cliques. O grande benefício é a **visibilidade operacional imediata**, gerando um **relatório instantâneo** que informa em tempo real quem está utilizando cada veículo, otimizando a segurança e a gestão da frota interna.
-
-    * **Status:** Em Andamento
+* **[Novo] Sistema de Estoque (Java)**: Projeto em desenvolvimento para aprimorar conceitos de POO, Coleções e lógica avançada em Java puro, com planos de migração para Spring Boot.
+* **Controle de Uso de Veículos (Python | Django)**: Aplicação Full-Stack que automatiza o registro da frota interna. 
+    * *O desafio:* Substituir o controle manual em Excel por um fluxo digital ágil.
+    * *Status:* Em Produção / Manutenção.
+* **DDSMS & Formulários Digitais (PHP)**: Soluções que digitalizaram processos de Segurança do Trabalho (SESMT), eliminando o uso de papel para listas de presença e solicitações de EPI.
+    * *Resultado:* Redução de burocracia e geração de métricas em tempo real para gestores.
 
 ---
 
 ## 📈 Estatísticas do GitHub
-
-A prova visual da minha dedicação e atividade:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PaivaOfc&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Erik Paiva" />
@@ -87,7 +62,7 @@ A prova visual da minha dedicação e atividade:
 
 ## 📬 Fale Comigo
 
-Sinta-se à vontade para se conectar e trocar ideias sobre tecnologia e desenvolvimento!
+Vamos trocar uma ideia sobre Java, Spring Boot ou gestão de TI?
 
 <p align="left">
   <a href="https://linkedin.com/in/erikvpaiva" target="_blank">
